@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+.section1{
+    font-family: 'Roboto' sans-serif;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+.aboutme{
+    background-color: rgb(198, 178, 224) ;
+    opacity: 0.5;
+}
+.aboutme{
+    color: white;
+}
+.aboutme{
+    font-family: 'Roboto' sans-serif;
+    font-weight: 400;
+    font-size: 5.0rem;
+    text-align: center;
+}
+    .aboutme1{
+        color: white;
+    }
+    .aboutme1{
+        font-family: 'Roboto' sans-serif;
+        font-weight: 400;
+        font-size: 2.0rem;
+        text-shadow: 2px 2px 4px #000;
+    }
